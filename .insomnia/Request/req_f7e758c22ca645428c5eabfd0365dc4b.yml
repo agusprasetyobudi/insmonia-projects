@@ -1,0 +1,35 @@
+_id: req_f7e758c22ca645428c5eabfd0365dc4b
+type: Request
+parentId: fld_9da37b4345f54557a894ec84f0680d35
+modified: 1622933131666
+created: 1622928855190
+url: "{{ _.devlopment }}login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "test123",
+    	"password" : "password"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9111b0e97faa483ab5ea116b97dff955
+  - name: Accept
+    value: application/json
+    description: ""
+    id: pair_2e0edd4f0e644aa4acd4303833666e13
+    disabled: false
+authentication: {}
+metaSortKey: -1622928855190
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

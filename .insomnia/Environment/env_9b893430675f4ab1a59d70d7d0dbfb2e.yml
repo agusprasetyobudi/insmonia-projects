@@ -1,0 +1,16 @@
+_id: env_9b893430675f4ab1a59d70d7d0dbfb2e
+type: Environment
+parentId: env_462d8f03a7acbb239f41f94b919e4868074d0d36
+modified: 1623226792195
+created: 1622928962184
+name: Agus Envirotment
+data:
+  dev_list: http://localhost:88/
+  development: http://localhost:88/api/
+dataPropertyOrder:
+  "&":
+    - dev_list
+    - development
+color: null
+isPrivate: false
+metaSortKey: 1622928962184

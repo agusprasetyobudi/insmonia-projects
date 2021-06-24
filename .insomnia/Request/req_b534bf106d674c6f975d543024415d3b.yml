@@ -1,0 +1,21 @@
+_id: req_b534bf106d674c6f975d543024415d3b
+type: Request
+parentId: fld_7a2aea7903674f89be8a8a77a23c6ad1
+modified: 1623660134266
+created: 1623660081834
+url: "{{ development }}v1/master/province"
+name: List Province
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623660081834
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e1f6f20d37504be39a712803b12b7739
+type: Request
+parentId: fld_7a2aea7903674f89be8a8a77a23c6ad1
+modified: 1623835198324
+created: 1623748952865
+url: "{{ development }}v1/master/province/find/1"
+name: Find Province
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623607533349.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

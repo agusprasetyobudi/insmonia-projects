@@ -1,0 +1,21 @@
+_id: req_560cd68c6f4147799dbe3407ca2a1832
+type: Request
+parentId: fld_f8356fedb1b749b08597cc7696930e0e
+modified: 1623759828488
+created: 1623226020602
+url: "{{ development }}v1/master/country"
+name: List Country
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623226020602
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

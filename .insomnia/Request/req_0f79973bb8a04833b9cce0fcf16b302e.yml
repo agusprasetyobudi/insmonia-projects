@@ -1,0 +1,30 @@
+_id: req_0f79973bb8a04833b9cce0fcf16b302e
+type: Request
+parentId: fld_7a2aea7903674f89be8a8a77a23c6ad1
+modified: 1623758257230
+created: 1623746180159
+url: "{{ development }}v1/master/province/create"
+name: Created Province
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"countries_id" : 1,
+    	"provinces_name" : "Dearah Istimewa Yogyakarta"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5dff9457ad8441958c13758b86f39632
+authentication: {}
+metaSortKey: -1623625049511
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

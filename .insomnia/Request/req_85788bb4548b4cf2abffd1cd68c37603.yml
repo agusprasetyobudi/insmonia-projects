@@ -1,0 +1,33 @@
+_id: req_85788bb4548b4cf2abffd1cd68c37603
+type: Request
+parentId: fld_f8356fedb1b749b08597cc7696930e0e
+modified: 1623760845935
+created: 1623759801148
+url: "{{ development }}v1/master/country/create"
+name: Created Country
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    		"countries_name": "{\"id\":\"Mesir\",\"eng\":\"Egypt\",\"ar\":\"إندونيسيا\"}",
+        "countries_code": "{\"id\":\"EG\",\"eng\":\"EG\",\"ar\":\"EG\"}",
+        "countries_currencies": "{\"id\":\"Egypt Pound\",\"eng\":\"Egypt Pound\",\"ar\":\"روبية\"}",
+        "countries_currencies_code": "EGP",
+        "countries_phone_area_code": "+20"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ec173c11836946d5a7d76c01e867c23b
+authentication: {}
+metaSortKey: -1623142557298
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

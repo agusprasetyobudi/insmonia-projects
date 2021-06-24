@@ -1,0 +1,21 @@
+_id: req_9f58ca587d704261940ba777fb082476
+type: Request
+parentId: fld_f8356fedb1b749b08597cc7696930e0e
+modified: 1623829415398
+created: 1623760715159
+url: "{{ development }}v1/master/country/find/1"
+name: Find Country
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623184288950
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

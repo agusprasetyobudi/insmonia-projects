@@ -1,0 +1,21 @@
+_id: req_83b6b6a7d6424cb18079fab720979ed6
+type: Request
+parentId: fld_f8356fedb1b749b08597cc7696930e0e
+modified: 1623768164242
+created: 1623767137643
+url: "{{ development }}v1/master/country/destroy/2"
+name: Delete Country
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623069526907
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

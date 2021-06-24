@@ -1,0 +1,21 @@
+_id: req_b498f751c1794209bef63ff11bec3bb8
+type: Request
+parentId: fld_7a2aea7903674f89be8a8a77a23c6ad1
+modified: 1623767186160
+created: 1623767092860
+url: "{{ development }}v1/master/province/destroy/4"
+name: Delete Province
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1623594396228.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_adf1622d570d4501b38f0629cd829570
+type: Request
+parentId: fld_7a2aea7903674f89be8a8a77a23c6ad1
+modified: 1623766418174
+created: 1623762875077
+url: "{{ development }}v1/master/province/find/4"
+name: Update Province
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"countries_id" : 1,
+    	"provinces_name" : "Dearah Istimewa Yogyakarta"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_3651d1f71021472bbcc403a505c24104
+authentication: {}
+metaSortKey: -1623598775268.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

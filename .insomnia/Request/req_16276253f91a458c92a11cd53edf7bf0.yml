@@ -1,0 +1,35 @@
+_id: req_16276253f91a458c92a11cd53edf7bf0
+type: Request
+parentId: fld_9da37b4345f54557a894ec84f0680d35
+modified: 1623007234174
+created: 1622934873974
+url: "{{ _.devlopment }}register"
+name: Register
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "test",
+    	"email" : "mail@mail.com",
+    	"password" : "password"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7df73699935f42a58b36b0a0bd4592c6
+  - name: Accept
+    value: application/json
+    description: ""
+    id: pair_3b8ffd2b74044c7982d49cee55eaee3c
+authentication: {}
+metaSortKey: -1622934873974
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

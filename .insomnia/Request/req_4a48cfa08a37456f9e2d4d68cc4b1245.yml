@@ -1,0 +1,33 @@
+_id: req_4a48cfa08a37456f9e2d4d68cc4b1245
+type: Request
+parentId: fld_f8356fedb1b749b08597cc7696930e0e
+modified: 1623765361627
+created: 1623762903750
+url: "{{ development }}v1/master/country/find/3"
+name: Update Country
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    		"countries_name": "{\"id\":\"Indonesia\",\"eng\":\"Indonesia\",\"ar\":\"إندونيسيا\"}",
+        "countries_code": "{\"id\":\"ID\",\"eng\":\"ID\",\"ar\":\"ID\"}",
+        "countries_currencies": "{\"id\":\"IDR\",\"eng\":\"IDR\",\"ar\":\"روبية\"}",
+        "countries_currencies_code": "RP",
+        "countries_phone_area_code": "+20"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d4fe83c47701411bb1c8cc771f4feae5
+authentication: {}
+metaSortKey: -1623079959820
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
