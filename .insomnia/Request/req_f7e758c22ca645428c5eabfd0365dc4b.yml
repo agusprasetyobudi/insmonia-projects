@@ -1,9 +1,9 @@
 _id: req_f7e758c22ca645428c5eabfd0365dc4b
 type: Request
 parentId: fld_9da37b4345f54557a894ec84f0680d35
-modified: 1622933131666
+modified: 1624740511256
 created: 1622928855190
-url: "{{ _.devlopment }}login"
+url: "{{development}}v1/personal/authentication/login"
 name: Login
 description: ""
 method: POST
@@ -11,7 +11,7 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"username": "test123",
+    	"email": "test123",
     	"password" : "password"
     }
 parameters: []
