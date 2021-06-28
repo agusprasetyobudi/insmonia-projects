@@ -1,9 +1,9 @@
 _id: req_16276253f91a458c92a11cd53edf7bf0
 type: Request
 parentId: fld_9da37b4345f54557a894ec84f0680d35
-modified: 1623007234174
+modified: 1624872735713
 created: 1622934873974
-url: "{{ _.devlopment }}register"
+url: "{{development}}v1/personal/user/register"
 name: Register
 description: ""
 method: POST
@@ -12,7 +12,7 @@ body:
   text: |-
     {
     	"name": "test",
-    	"email" : "mail@mail.com",
+    	"email" : "agus.prasetyobudi@gmail.com",
     	"password" : "password"
     }
 parameters: []
@@ -25,7 +25,7 @@ headers:
     description: ""
     id: pair_3b8ffd2b74044c7982d49cee55eaee3c
 authentication: {}
-metaSortKey: -1622934873974
+metaSortKey: -1622928855140
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
